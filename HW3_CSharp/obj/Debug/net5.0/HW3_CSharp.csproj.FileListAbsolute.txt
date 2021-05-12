@@ -1,0 +1,16 @@
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\bin\Debug\net5.0\HW3_CSharp.exe
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\bin\Debug\net5.0\HW3_CSharp.deps.json
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\bin\Debug\net5.0\HW3_CSharp.runtimeconfig.json
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\bin\Debug\net5.0\HW3_CSharp.runtimeconfig.dev.json
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\bin\Debug\net5.0\HW3_CSharp.dll
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\bin\Debug\net5.0\ref\HW3_CSharp.dll
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\bin\Debug\net5.0\HW3_CSharp.pdb
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\HW3_CSharp.csprojAssemblyReference.cache
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\HW3_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\HW3_CSharp.AssemblyInfoInputs.cache
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\HW3_CSharp.AssemblyInfo.cs
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\HW3_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\HW3_CSharp.dll
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\ref\HW3_CSharp.dll
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\HW3_CSharp.pdb
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_CSharp\obj\Debug\net5.0\HW3_CSharp.genruntimeconfig.cache

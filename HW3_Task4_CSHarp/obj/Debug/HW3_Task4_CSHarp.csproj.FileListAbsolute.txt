@@ -1,0 +1,7 @@
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_Task4_CSHarp\bin\Debug\HW3_Task4_CSHarp.exe.config
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_Task4_CSHarp\bin\Debug\HW3_Task4_CSHarp.exe
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_Task4_CSHarp\bin\Debug\HW3_Task4_CSHarp.pdb
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_Task4_CSHarp\obj\Debug\HW3_Task4_CSHarp.csprojAssemblyReference.cache
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_Task4_CSHarp\obj\Debug\HW3_Task4_CSHarp.csproj.CoreCompileInputs.cache
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_Task4_CSHarp\obj\Debug\HW3_Task4_CSHarp.exe
+C:\Users\Steam\source\repos\HW3_CSharp\HW3_Task4_CSHarp\obj\Debug\HW3_Task4_CSHarp.pdb

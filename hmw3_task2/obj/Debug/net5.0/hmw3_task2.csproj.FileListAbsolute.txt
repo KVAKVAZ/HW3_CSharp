@@ -1,0 +1,16 @@
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\hmw3_task2.csprojAssemblyReference.cache
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\hmw3_task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\hmw3_task2.AssemblyInfoInputs.cache
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\hmw3_task2.AssemblyInfo.cs
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\hmw3_task2.csproj.CoreCompileInputs.cache
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\bin\Debug\net5.0\hmw3_task2.exe
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\bin\Debug\net5.0\hmw3_task2.deps.json
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\bin\Debug\net5.0\hmw3_task2.runtimeconfig.json
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\bin\Debug\net5.0\hmw3_task2.runtimeconfig.dev.json
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\bin\Debug\net5.0\hmw3_task2.dll
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\bin\Debug\net5.0\ref\hmw3_task2.dll
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\bin\Debug\net5.0\hmw3_task2.pdb
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\hmw3_task2.dll
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\ref\hmw3_task2.dll
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\hmw3_task2.pdb
+C:\Users\Steam\source\repos\HW3_CSharp\hmw3_task2\obj\Debug\net5.0\hmw3_task2.genruntimeconfig.cache
